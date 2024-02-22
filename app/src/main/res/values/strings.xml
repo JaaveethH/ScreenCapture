@@ -1,0 +1,13 @@
+<resources>
+        <string name="app_name">ScreenRecord</string>
+        <string name="start_recording">START</string>
+        <string name="stop_recording">STOP</string>
+        <string name="standard_definition">SD</string>
+        <string name="high_definition">HD</string>
+        <string name="audio">Audio Enabled</string>
+        <string name="user_cancelled">You have cancelled screen recording.</string>
+        <string name="video_quality">Video Quality</string>
+        <string name="screen_recording_started">Screen recording started..</string>
+        <string name="please_check_your_downloads">Please check your Downloads...</string>
+        <string name="kindly_start_the_recording">Kindly start the recording...</string>
+</resources>
